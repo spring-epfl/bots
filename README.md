@@ -31,4 +31,4 @@ Our research focuses on large-scale web crawls to enable comprehensive analysis 
 
 ## Contact
 
-For questions about our research or bots, please contact the SPRING Lab team.
+For questions about our research or bots, please contact Saiid El Hajj Chehade saiid.elhajjchehade@epfl.ch
